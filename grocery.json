@@ -1,0 +1,72 @@
+[{
+    "SlNo":"001",
+    "name": "Brown eggs",
+    "Department": "dairy",
+    "notes": "Raw organic brown eggs in a basket",
+    "quantity": 10,
+    "unit": "Number"
+  }, {
+    "SlNo":"002", 
+    "name": "Sweet fresh stawberry",
+    "Department": "fruit",
+    "notes": "Sweet fresh stawberry on the wooden table",
+    "quantity": 2,
+    "unit": "KiloGrams"
+  }, {
+    "SlNo":"003", 
+    "name": "Asparagus",
+    "Department": "vegetable",
+    "notes": "Asparagus with ham on the wooden table",
+    "quantity": 8,
+    "unit": "KiloGrams"
+  }, {
+    "SlNo":"004", 
+    "name": "Green smoothie",
+    "Department": "dairy",
+    "notes": "Glass of green smoothie with quail egg's yolk, served with cocktail tube, green apple and baby spinach leaves over tin surface.",
+    "quantity": 1,
+    "unit": "Litre"
+  }, {
+    "SlNo":"005", 
+    "name": "Raw legums",
+    "Department": "vegetable",
+    "notes": "Raw legums on the wooden table",
+    "quantity": 10,
+    "unit": "KiloGrams"
+  }, {
+    "SlNo":"006", 
+    "name": "Baking cake",
+    "Department": "dairy",
+    "notes": "Baking cake in rural kitchen - dough  recipe ingredients (eggs, flour, sugar) on vintage wooden table from above.",
+    "quantity": 450,
+    "unit": "Number"
+  }, {
+    "SlNo":"007", 
+    "name": "Pesto with basil",
+    "Department": "vegetable",
+    "notes": "Italian traditional pesto with basil, chesse and oil",
+    "quantity": 7,
+    "unit": "KiloGrams"
+  }, {
+    "SlNo":"008", 
+    "name": "Hazelnut in black ceramic bowl",
+    "Department": "vegetable",
+    "notes": "Hazelnut in black ceramic bowl on old wooden background. forest wealth. rustic style. selective focus",
+    "quantity": 6,
+    "unit": "KiloGrams"
+  }, {
+    "SlNo":"009", 
+    "name": "Fresh stawberry",
+    "Department": "fruit",
+    "notes": "Sweet fresh stawberry on the wooden table",
+    "quantity": 2,
+    "unit": "KiloGrams"
+  }, {
+    "SlNo":"010", 
+    "name": "Lemon",
+    "Department": "fruit",
+    "notes": "lemon",
+    "quantity": 2,
+    "unit": "KiloGrams"
+  }
+  ]
